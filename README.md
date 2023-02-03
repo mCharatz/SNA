@@ -1,2 +1,1 @@
-# SNA
- 
+Graph Analytics and GraphML to predict user's political party
